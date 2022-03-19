@@ -1,0 +1,29 @@
+.popup__clouse-icon {
+  background-image: url(/images/button/Close\ Icon.svg);
+  background-size: contain;
+  border: none;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  width: 32px;
+  height: 32px;
+  outline: none;
+  position: absolute;
+  display: flex;
+  right: 0;
+  /*top: 0;*/
+  transform: translateY(-600%) translateX(125%);
+}
+
+.popup__clouse-icon:hover {
+  opacity: 0.6;
+}
+
+
+
+@media screen and (max-width: 767px) {
+  .popup__clouse-icon {
+    width: 20px;
+    height: 20px;
+    transform: translateY(-900%) translateX(1%);
+  }
+}

@@ -1,0 +1,26 @@
+.element__like {
+background-image: url(../../../images/button/like.svg);
+background-size: contain;
+background-repeat: no-repeat;
+width: 22px;
+height: 19px;
+box-sizing: border-box;
+border: none;
+background-color: #fff;
+width: 22px;
+height: 19px;
+outline: none;
+border: none;
+}
+
+.element__like:hover {
+  opacity: 0.6;
+}
+
+.element__like:disabled {
+  background-color: #fff;
+}
+
+.element__like:active {
+  background-color: #000;
+}
