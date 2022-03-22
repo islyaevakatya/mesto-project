@@ -2,7 +2,7 @@
   background-image: url(../../../images/button/Edit\ Button.svg);
   background-size: contain;
   border: none;
-  display: inline-block;
+  display: block;
   background-repeat: no-repeat;
   background-color: transparent;
   transition-property: all;
