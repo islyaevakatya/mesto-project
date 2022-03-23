@@ -1,6 +1,7 @@
 .profile__container {
   display: grid;
   grid-template-columns: 1fr min-content;
+  /*grid-template-columns: repeat(auto-fill 336px);*/
   justify-content: center;
   align-items: baseline;
   gap: 0 16px;

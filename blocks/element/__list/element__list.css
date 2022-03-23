@@ -3,6 +3,7 @@
   margin: 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr );
+  grid-template-columns: repeat(auto-fill, min-max(282px, 1fr));
   padding-bottom: 67px;
   gap: 17px 17px;
   box-sizing: border-box;

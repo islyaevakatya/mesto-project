@@ -2,12 +2,13 @@
   margin-right: auto;
   padding-left: 30px;
   box-sizing: border-box;
+
 }
 
-@media screen and (max-width: 767px){
-  .profile__info {
-    margin: 0;
-    padding: 0;
 
+@media screen and (max-width:767px){
+  .profile__info {
+    margin-right: 0;
+    padding-left: 0;
   }
 }

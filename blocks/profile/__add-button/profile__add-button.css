@@ -9,6 +9,8 @@
   width: 150px;
   height: 50px;
   outline: none;
+  /*margin: auto;
+  margin-right: 0;*/
 }
 
 .profile__add-button:hover {
@@ -19,5 +21,6 @@
   .profile__add-button {
     width: 282px;
     background-image: url(../../../images/button/Add\ Button1.svg);
+    /*margin: 0 auto;*/
   }
 }
