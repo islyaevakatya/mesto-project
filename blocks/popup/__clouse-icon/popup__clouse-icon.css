@@ -1,5 +1,5 @@
 .popup__clouse-icon {
-  background-image: url(../../../images/button/Close\ Icon.svg);
+  background-image: url(../../../images/button/CloseIcon.svg);
   background-size: contain;
   border: none;
   background-repeat: no-repeat;
@@ -10,20 +10,17 @@
   position: absolute;
   display: flex;
   right: 0;
-  /*top: 0;*/
-  transform: translateY(-600%) translateX(125%);
+  transform: translateY(-125%) translateX(125%);
+  cursor: pointer;
 }
 
 .popup__clouse-icon:hover {
   opacity: 0.6;
 }
 
-
-
 @media screen and (max-width: 767px) {
   .popup__clouse-icon {
     width: 20px;
     height: 20px;
-    transform: translateY(-900%) translateX(1%);
   }
 }

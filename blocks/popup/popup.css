@@ -7,9 +7,7 @@
   /*opacity: 0;
   visibility: hidden;*/
   display: none;
-  transition: left .5s;
-  border-right: 1px solid #000;
+  transition: left 0.5s;
   justify-content: center;
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(0, 0, 0, 0.5);
 }
-

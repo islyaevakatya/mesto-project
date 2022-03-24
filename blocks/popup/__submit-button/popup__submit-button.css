@@ -10,18 +10,22 @@
   margin-bottom: 37px;
   margin-top: 48px;
   border-radius: 2px;
+  margin-right: 36px;
+  margin-left: 36px;
+  cursor: pointer;
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 767px) {
   .popup__submit-button {
     width: 238px;
     margin-bottom: 25px;
     margin-top: 45px;
     font-size: 14px;
     line-height: 16.94px;
+    margin-right: 22px;
+    margin-left: 22px;
   }
 }
-
 
 .popup__submit-button:hover {
   opacity: 0.8;

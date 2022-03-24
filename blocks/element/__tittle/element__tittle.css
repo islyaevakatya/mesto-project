@@ -7,9 +7,3 @@
   white-space: nowrap;
   overflow: hidden;
 }
-
-.element__tittle:nth-of-type(6n) {
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  overflow: hidden;
-}

@@ -2,13 +2,18 @@
   margin-right: auto;
   padding-left: 30px;
   box-sizing: border-box;
-
+  display: grid;
+  grid-template-columns: 1fr min-content;
+  justify-content: center;
+  align-items: baseline;
+  gap: 0 16px;
+  justify-content: space-between;
 }
 
-
-@media screen and (max-width:767px){
+@media screen and (max-width: 767px) {
   .profile__info {
     margin-right: 0;
     padding-left: 0;
+    padding-top: 22.25px;
   }
 }
