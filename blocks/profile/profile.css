@@ -4,7 +4,7 @@
   width: 100%;
   padding-top: 48px;
   box-sizing: border-box;
-  padding-bottom: 47.25px;
+  padding-bottom: 52.25px;
   flex-wrap: nowrap;
 }
 
@@ -13,7 +13,7 @@
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
-    padding-top: 38.25px;
+    padding-top: 45.25px;
     padding-bottom: 36px;
   }
 }

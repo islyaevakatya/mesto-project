@@ -12,10 +12,11 @@
   outline: none;
   border: none;
   cursor: pointer;
+  margin-right: 15px;
 }
 
 .element__like:hover {
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 .element__like:disabled {

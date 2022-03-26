@@ -13,7 +13,7 @@
 @media screen and (max-width: 767px) {
   .profile__info {
     margin-right: 0;
-    padding-left: 0;
+    padding-left: 21px;
     padding-top: 22.25px;
   }
 }

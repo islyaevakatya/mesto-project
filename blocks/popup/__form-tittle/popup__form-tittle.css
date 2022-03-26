@@ -5,16 +5,18 @@
   line-height: 29.05px;
   margin: 0;
   margin-top: 34px;
-  margin-bottom: 54px;
+  margin-bottom: 45px;
   margin-right: 36px;
   margin-left: 36px;
 }
 
 @media screen and (max-width: 767px) {
   .popup__form-tittle {
-    font-size: 17px;
+    font-size: 18px;
     line-height: 21.78px;
     margin-right: 22px;
     margin-left: 22px;
+    margin-top: 25px;
+    margin-bottom: 74px;
   }
 }
