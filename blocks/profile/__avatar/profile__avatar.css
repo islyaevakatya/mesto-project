@@ -1,6 +1,6 @@
 .profile__avatar {
-  width: 125px;
-  height: 110px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   position: relative;
 }
@@ -10,6 +10,5 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 120px;
   }
 }

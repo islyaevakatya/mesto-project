@@ -22,5 +22,6 @@
   .popup__clouse-icon {
     width: 20px;
     height: 20px;
+    transform: translateY(-185%) translateX(0%);
   }
 }

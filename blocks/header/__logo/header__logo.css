@@ -3,6 +3,11 @@
   height: 33px;
   box-sizing: border-box;
 }
+@media screen and (max-width: 1023px) {
+  .header__logo {
+    margin-left: 19px;
+  }
+}
 
 @media screen and (max-width: 767px) {
   .header__logo {

@@ -1,10 +1,10 @@
 .profile__about {
   margin: 0;
-  padding-top: 16px;
+  padding-top: 9px;
   box-sizing: border-box;
   font-weight: 400;
   font-size: 18px;
-  line-height: 10.78px;
+  line-height: 21.78px;
   align-items: center;
   box-sizing: border-box;
 }
@@ -12,7 +12,8 @@
 @media screen and (max-width: 767px) {
   .profile__about {
     font-size: 14px;
-    padding-bottom: 40px;
+    line-height: 16.94px;
+    padding-bottom: 29px;
     text-align: center;
     padding-top: 0;
   }

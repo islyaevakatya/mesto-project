@@ -2,18 +2,18 @@
   display: flex;
   align-items: center;
   width: 100%;
-  padding-top: 48px;
-  box-sizing: border-box;
-  padding-bottom: 52.25px;
+  padding-top: 35px;
+  padding-bottom: 48.25px;
   flex-wrap: nowrap;
+  height: 127.5px;
 }
 
 @media screen and (max-width: 767px) {
   .profile {
-    flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
-    padding-top: 45.25px;
+    padding-top: 40px;
     padding-bottom: 36px;
+    height: 286px;
   }
 }
