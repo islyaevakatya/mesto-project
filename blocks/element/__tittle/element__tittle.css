@@ -9,4 +9,10 @@
   margin-left: 21px;
 }
 
-
+@media screen and (max-width: 767px) {
+  .element__tittle {
+    margin-left: 20px;
+    margin-bottom: 28px;
+    margin-top: 25px;
+  }
+}
